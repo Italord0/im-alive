@@ -11,4 +11,4 @@ app.get('/teste', (request, response) =>{
     return response.json({"message" : "Teste"})
 })
 
-app.listen(80)
+app.listen(3000)
